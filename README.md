@@ -21,17 +21,21 @@ Requirements
 
  Educational options for cybersecurity awareness: 
 
-Password safety 
-
-Phishing 
-
-Safe browsing 
+Smart Responses, providing helpful tips on topics like:
+Password safety
+Phishing
+Scams
+Privacy
 
  Personalized user greeting 
+
+ Has sentiment detection, recognizing the tone of the user and providing an appropriate response
+
+ The bot will also give follow up questions to keep the conversation going.
 
  
 Run Console app 
 
 Once you press start on the chat bot it will play an audio greeting with the picture of the chatbot and then it will prompt you and ask you “What is your name?”. 
 
- After you enter your name, it will display a message saying it is nice to meet you with the user's name and then it will prompt the user with four questions that you're able to ask it.  The questions being : What's my purpose?, password safety, phishing and safe browsing and then you will press a number from 1 to 4. To give the different responses and press 5 to quit. 
+ After you enter your name, it will display a message saying it is nice to meet you with the user's name and then it will prompt the to ask between for questions and the bot will detect the concered topic and provide a tip or advice on preventing the attack or concern from carrying on. The bot will give follow up prompts to keep the conversation going, wanting the user to ask more questions.user with four questions that you're able to ask it. When the user wishes to quit, they can type quit and the program will end. 
