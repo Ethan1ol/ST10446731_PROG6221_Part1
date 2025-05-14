@@ -32,6 +32,15 @@ Privacy
  Has sentiment detection, recognizing the tone of the user and providing an appropriate response
 
  The bot will also give follow up questions to keep the conversation going.
+ Example questions that you could are:
+
+“How do I create a strong password?”
+
+“What is phishing?”
+
+“How do I know if a message is a scam?”
+
+“Tell me about online privacy.”
 
  
 Run Console app 
