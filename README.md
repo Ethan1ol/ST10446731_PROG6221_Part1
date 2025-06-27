@@ -49,6 +49,63 @@ Once you press start on the chat bot it will play an audio greeting with the pic
 
  After you enter your name, it will display a message saying it is nice to meet you with the user's name and then it will prompt the to ask between for questions and the bot will detect the concered topic and provide a tip or advice on preventing the attack or concern from carrying on. The bot will give follow up prompts to keep the conversation going, wanting the user to ask more questions.user with four questions that you're able to ask it. When the user wishes to quit, they can type quit and the program will end. 
 
+  Task Assistant (with Reminder Support)
+Add tasks like:
+"add task to review firewall - description: check inbound/outbound rules"
+
+Set reminders with natural phrases like:
+"remind me to update my password in 3 days"
+
+Blitz stores reminders with dates and confirms them in the chat.
+
+📚 Cybersecurity Quiz
+Interactive 10-question quiz
+
+Provides instant feedback with explanations after each answer
+
+Tracks your score and gives a final message like:
+
+“Great job, you're a cybersecurity pro!”
+
+“Keep practicing to improve your awareness!”
+
+🧠 NLP-like Command Detection
+Recognizes varied phrasing using basic keyword detection and Regex
+
+For example:
+
+“Add a task to set up 2FA”
+
+“Can you remind me to check my privacy tomorrow?”
+
+ Activity Log
+Type "show activity" or "what have you done?" to view:
+
+Tasks added (with descriptions and reminders)
+
+Quiz started or completed
+
+NLP-triggered chatbot actions
+
+Running the Console App
+Press Start to launch BlitzBot.
+
+Hear the audio greeting and see the ASCII picture.
+
+Enter your name when prompted.
+
+Blitz will:
+
+Greet you personally
+
+Ask what cybersecurity concern you have
+
+Offer dynamic responses and follow-up tips
+
+Let you add tasks, set reminders, or start a quiz
+
+Type "quit" to end the conversation.
+
  References
  GeeksforGeeks. (n.d.). try-catch block in programming. [online] Available at: https://www.geeksforgeeks.org/try-catch-block-in-programming/ [Accessed 13 May 2025].
  GeeksforGeeks. (n.d.). Search results for "C# Dictionary". [online] Available at: https://www.geeksforgeeks.org/search/?gq=C%23+Dictionary [Accessed 13 May 2025].
